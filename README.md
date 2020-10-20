@@ -6,8 +6,8 @@
 - Finish cleaning final dataset
 - 
 
-Comparisons:
-Streams vs Danceability - scatter plot
-Pie graphs top 10 artists
-bar graphs of bins
-box and whisker 
+- Comparisons:
+- Streams vs Danceability - scatter plot
+- Pie graphs top 10 artists
+- bar graphs of bins
+- box and whisker 
